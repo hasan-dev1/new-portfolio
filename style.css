@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+.first_div .one{
+    width: 50%;
+    float: left;
+    margin-top: 50px;
+    font-size: 20px;
+    font-size: 36px;
+}
+.first_div .one h1{
+    margin-bottom: 40px;
+}
+.first_div .one h2 span{
+    color: red;
+}
+.first_div .one h4{
+    margin-top:25px;
+    margin-bottom: 25px;
+}
+.first_div .one p{
+    font-size: 24px;
+    opacity: 70%;
+}
+.first_div .one button{
+    padding:10px 30px;
+    color: white;
+    font-weight: bold;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+
+}
+.first_div .two{
+    width: 50%;
+    float: left;
+    margin-top: 50px;
+}
+.first_div .two .img_div{
+    margin-left:150px;
+    border-radius: 100px;
+    overflow: hidden;
+}
